@@ -19,7 +19,7 @@ class Product(Resource):
 				'Kachori',
 				'lassi',
 				'Pizza',
-				'Pani Puri'
+				'Shev Puri'
 			]
 		}
 
