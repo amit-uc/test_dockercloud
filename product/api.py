@@ -18,7 +18,7 @@ class Product(Resource):
 				'Samosa',
 				'Kachori',
 				'lassi',
-				'Pizza'
+				'Pizza',
 			]
 		}
 
