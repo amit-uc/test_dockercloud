@@ -16,7 +16,8 @@ class Product(Resource):
 				'Fruit',
 				'Eggs',
 				'Samosa',
-				'Kachori'
+				'Kachori',
+				'lassi'
 			]
 		}
 
