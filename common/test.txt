@@ -1,0 +1,1 @@
+Docker Testing a common file.
