@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<?php 
-			$json = file_get_contents('http://product-service');
+			$json = file_get_contents('http://localhost:9876');
 			echo "<h3>Products</h3>";
 			$obj = json_decode($json);
 			
